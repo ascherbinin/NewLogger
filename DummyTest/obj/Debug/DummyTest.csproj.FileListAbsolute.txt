@@ -1,0 +1,7 @@
+C:\Users\asche\Desktop\Task\Logger\DummyTest\bin\Debug\DummyTest.exe
+C:\Users\asche\Desktop\Task\Logger\DummyTest\bin\Debug\DummyTest.pdb
+C:\Users\asche\Desktop\Task\Logger\DummyTest\bin\Debug\Logger.dll
+C:\Users\asche\Desktop\Task\Logger\DummyTest\bin\Debug\Logger.pdb
+C:\Users\asche\Desktop\Task\Logger\DummyTest\obj\Debug\DummyTest.csprojResolveAssemblyReference.cache
+C:\Users\asche\Desktop\Task\Logger\DummyTest\obj\Debug\DummyTest.exe
+C:\Users\asche\Desktop\Task\Logger\DummyTest\obj\Debug\DummyTest.pdb
